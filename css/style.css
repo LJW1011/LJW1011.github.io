@@ -497,6 +497,22 @@ button {
     font-weight: bold;
 }
 
+.about_taital_h2 {
+    width: 100%;
+    float: left;
+    font-size: 27px;
+    color: #1f1f1f;
+    font-weight: bold;
+}
+
+.about_taital_h3 {
+    width: 100%;
+    float: left;
+    font-size: 20px;
+    color: #1f1f1f;
+    font-weight: bold;
+}
+
 .about_text {
     width: 100%;
     float: left;
