@@ -135,18 +135,18 @@
     .banner_text {
         width: 100%;
     }
-    .about_taital_main {
+    .education_taital_main {
         padding-left: 25px;
         padding-top: 40px;
     }
-    .about_text {
+    .education_text {
         padding-top: 0px;
         font-size: 14px;
     }
     .readmore_bt {
         margin-top: 30px;
     }
-    .blog_section {
+    .video_section {
         background-size: 100% 100%;
         padding-bottom: 220px;
         padding-top: 160px;
@@ -205,21 +205,21 @@
     .banner_text {
         width: 100%;
     }
-    .about_taital_main {
+    .education_taital_main {
         padding-left: 25px;
         padding-top: 0px;
     }
-    .about_text {
+    .education_text {
         padding-top: 0px;
         font-size: 14px;
     }
     .readmore_bt {
         margin-top: 30px;
     }
-    .about_img {
+    .education_img {
         height: 340px;
     }
-    .blog_section {
+    .video_section {
         background-size: 100% 100%;
         padding-bottom: 220px;
         padding-top: 160px;
@@ -288,7 +288,7 @@
         display: none;
     }
     .header_section {
-        background-image: url(../images/mobile-bg.png);
+        /* background-image: url(../images/mobile-bg.png); */
         background-size: cover;
         padding: 0px;
     }
@@ -348,37 +348,37 @@
     .banner_section {
         padding: 50px 0px;
     }
-    .services_section {
+    .projects_section {
         padding: 50px 0px;
     }
-    .services_section_2 {
+    .projects_section_2 {
         margin-top: 30px;
     }
-    .services_img {
+    .projects_img {
         margin-top: 40px;
     }
-    .about_section {
+    .education_section {
         padding: 50px 0px;
     }
-    .about_taital_main {
+    .education_taital_main {
         padding-top: 0px;
         padding-left: 0px;
     }
-    .about_text {
+    .education_text {
         font-size: 15px;
     }
-    .about_img {
+    .education_img {
         padding-top: 30px;
     }
     .padding_right_0 {
         padding-right: 15px;
     }
-    .blog_section {
-        background-image: url(../images/blog-mobile-bg.png);
+    .video_section {
+        /* background-image: url(../images/video-mobile-bg.png); */
         background-size: cover;
         padding: 50px 0px;
     }
-    .blog_text {
+    .video_text {
         width: 100%;
     }
     .play_icon_main {
@@ -487,7 +487,7 @@
         display: none;
     }
     .header_section {
-        background-image: url(../images/mobile-bg.png);
+        /* background-image: url(../images/mobile-bg.png); */
         background-size: cover;
         padding: 0px; 
     }
@@ -546,37 +546,37 @@
     .banner_section {
         padding: 50px 0px;
     }
-    .services_section {
+    .projects_section {
         padding: 50px 0px;
     }
-    .services_section_2 {
+    .projects_section_2 {
         margin-top: 30px;
     }
-    .services_img {
+    .projects_img {
         margin-top: 40px;
     }
-    .about_section {
+    .education_section {
         padding: 50px 0px;
     }
-    .about_taital_main {
+    .education_taital_main {
         padding-top: 0px;
         padding-left: 0px;
     }
-    .about_text {
+    .education_text {
         font-size: 15px;
     }
-    .about_img {
+    .education_img {
         padding-top: 30px;
     }
     .padding_right_0 {
         padding-right: 15px;
     }
-    .blog_section {
-        background-image: url(../images/blog-mobile-bg.png);
+    .video_section {
+        /* background-image: url(../images/video-mobile-bg.png); */
         background-size: cover;
         padding: 50px 0px;
     }
-    .blog_text {
+    .video_text {
         width: 100%;
     }
     .play_icon_main {
